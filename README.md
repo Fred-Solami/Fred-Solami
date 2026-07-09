@@ -75,7 +75,7 @@ Database schema, frontend workflows, and payment integration for a national-scal
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fred-Solami&bg_color=0D1117&color=7F52FF&line=3776AB&point=FFFFFF&hide_border=true" alt="Fred's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fred-Solami&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="Fred's Activity Graph" />
 </p>
 
 <p align="center">
