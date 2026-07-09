@@ -75,8 +75,8 @@ Database schema, frontend workflows, and payment integration for a national-scal
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fred-Solami&show_icons=true&theme=radical" alt="Fred Solami GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Solami&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fred-Solami&show_icons=true&theme=radical&v=1" alt="Fred Solami GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Solami&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
