@@ -54,7 +54,7 @@ I build resilient, production-grade backend systems for infrastructure-constrain
 
 ## Selected projects
 
-**[Cipheraith TMS](https://cipheraith.dev)** — *live in production*
+**[Cipheraith TMS](https://cipheraith.dev)**  *live in production*
 
 A Terminal Management System for Android POS device fleets. Full-stack build with an Express backend, a React frontend, and a native Kotlin Android agent, supporting OTA updates, remote monitoring, and Sentry-based error tracking.
 
