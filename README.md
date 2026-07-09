@@ -72,6 +72,17 @@ Database schema, frontend workflows, and payment integration for a national-scal
 - Programming for Everybody (Python), University of Michigan
 - Introduction to Cybersecurity, Cisco Networking Academy
 
+## GitHub stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fred-Solami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Fred Solami's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Solami&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fred-Solami&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-solami-840337337/)
