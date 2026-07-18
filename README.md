@@ -6,7 +6,7 @@ Building resilient, production-grade systems for infrastructure-constrained envi
 
 ---
 
-## What I do
+## What I do:
 
 I build resilient, production-grade backend systems for infrastructure-constrained environments: API frameworks, payment integrations, offline-first systems, government-scale databases, and device fleet management. My work bridges robust server logic with cross-platform web and mobile front ends.
 
